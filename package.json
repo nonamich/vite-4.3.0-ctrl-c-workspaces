@@ -1,4 +1,5 @@
 {
+  "name": "workspace",
   "workspaces": [
     "vite"
   ]
